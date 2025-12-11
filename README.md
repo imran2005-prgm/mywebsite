@@ -8,3 +8,7 @@ I am Imran Choudhury. This is my first website Profile
 
 - [@imran2005-prgm](https://www.https://github.com/imran2005-prgm)
 
+
+## 🛠 Skills
+
+Javascript, HTML, CSS...
